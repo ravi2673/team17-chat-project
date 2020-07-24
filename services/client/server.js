@@ -121,24 +121,24 @@ io.on('connection', function(socket) {
       },
       {
         id: 'group1',
-        name: 'T1',
-        preview: 'Team One',
+        name: 'Marketing',
+        preview: 'Publish',
         image: '/images/fargate.png',
         status: 'none',
         onlineCount: 0
       },
       {
         id: 'group2',
-        name: 'T2',
-        preview: 'Team Two',
+        name: 'IT',
+        preview: 'Coding',
         image: '/images/eks.png',
         status: 'none',
         onlineCount: 0
       },
       {
         id: 'group3',
-        name: 'T3',
-        preview: 'Team Three',
+        name: 'Operations',
+        preview: 'Employee Portal',
         image: '/images/ecs.png',
         status: 'none',
         onlineCount: 0
