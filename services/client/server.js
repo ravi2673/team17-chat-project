@@ -120,7 +120,7 @@ io.on('connection', function(socket) {
         onlineCount: 0
       },
       {
-        id: 'group1',
+        id: 'marketing',
         name: 'Marketing',
         preview: 'Publish',
         image: '/images/fargate.png',
@@ -128,7 +128,7 @@ io.on('connection', function(socket) {
         onlineCount: 0
       },
       {
-        id: 'group2',
+        id: 'it',
         name: 'IT',
         preview: 'Coding',
         image: '/images/eks.png',
@@ -136,7 +136,7 @@ io.on('connection', function(socket) {
         onlineCount: 0
       },
       {
-        id: 'group3',
+        id: 'operations',
         name: 'Operations',
         preview: 'Employee Portal',
         image: '/images/ecs.png',
