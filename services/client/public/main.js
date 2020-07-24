@@ -19,9 +19,9 @@ var store = {
 
     messages: {
       gen: [],
-      group1: [],
-      group2: [],
-      group3: []
+      marketing: [],
+      it: [],
+      operations: []
     },
 
     typing: [],
