@@ -115,7 +115,7 @@ io.on('connection', function(socket) {
         id: 'gen',
         name: 'HR',
         preview: 'Human Resources',
-        image: '/images/aws.jpg',
+        image: '/images/businessHR.jpg',
         status: 'none',
         onlineCount: 0
       },
@@ -123,7 +123,7 @@ io.on('connection', function(socket) {
         id: 'marketing',
         name: 'Marketing',
         preview: 'Publish',
-        image: '/images/fargate.png',
+        image: '/images/marketing.jpg',
         status: 'none',
         onlineCount: 0
       },
@@ -131,7 +131,7 @@ io.on('connection', function(socket) {
         id: 'it',
         name: 'IT',
         preview: 'Coding',
-        image: '/images/eks.png',
+        image: '/images/IT.jpg',
         status: 'none',
         onlineCount: 0
       },
@@ -139,7 +139,7 @@ io.on('connection', function(socket) {
         id: 'operations',
         name: 'Operations',
         preview: 'Employee Portal',
-        image: '/images/ecs.png',
+        image: '/images/operations.jpg',
         status: 'none',
         onlineCount: 0
       }
